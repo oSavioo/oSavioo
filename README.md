@@ -4,6 +4,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDAE&center=true&vCenter=true&width=900&height=40&lines=Extrair%2C+transformar+e+carregar+sem+perder+nada;Pentaho+%2B+SQL+%2B+SAP+Migration+Cockpit" />
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:38bdae,100:0f2027&height=3" width="100%" />
+
 ## Sobre mim
 
 Trabalho com migração de dados para SAP S/4HANA: puxar dado de sistema legado, tratar no ETL e carregar no destino sem quebrar nada no caminho.
@@ -12,18 +14,7 @@ No projeto em que estou hoje, construo as extrações no Pentaho, escrevo as reg
 
 Gosto de problema de dado bagunçado: origem mal documentada, campo que muda de tipo no meio do caminho, carga que precisa bater com o destino no fim.
 
-## Como eu trabalho
-
-```text
-legado (AX · SQL Server)
-   └─ extração        Pentaho PDI, uma rotina por tabela
-staging
-   └─ transformação   regras de negócio, de-para, enriquecimento em SQL
-tabelas de carga
-   └─ carga           SAP Migration Cockpit
-SAP S/4HANA
-   └─ reconciliação   comparação campo a campo origem x destino
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:38bdae,100:0f2027&height=3" width="100%" />
 
 ## Stack
 
@@ -34,37 +25,27 @@ SAP S/4HANA
 <img src="https://img.shields.io/badge/Migration%20Cockpit-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
 <img src="https://img.shields.io/badge/Cloud%20ALM-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
 <img src="https://img.shields.io/badge/Pentaho%20PDI-CC0000?style=for-the-badge&logo=pentaho&logoColor=white" />
-<img src="https://img.shields.io/badge/Dynamics%20AX-002050?style=for-the-badge&logo=microsoft&logoColor=white" />
-</div>
-
-**Bancos e SQL**
-
-<div align="left">
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 <img src="https://img.shields.io/badge/SAP%20HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/PL%2FpgSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" />
 </div>
 
-**Linguagens**
+**Linguagens e bancos**
 
 <div align="left">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,postgres,mysql&theme=dark" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/PL%2FpgSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 
 **Ferramentas**
 
 <div align="left">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode&theme=dark" />
+<img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" />
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:38bdae,100:0f2027&height=3" width="100%" />
 
 ## Projetos
 
@@ -86,6 +67,8 @@ Exercícios e anotações de SQL, Python, C e programação paralela em C++.
 </td>
 </tr>
 </table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:38bdae,100:0f2027&height=3" width="100%" />
 
 ## Linguagens que mais uso
 
